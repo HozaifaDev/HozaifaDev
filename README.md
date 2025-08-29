@@ -1,7 +1,9 @@
-<!-- Banner -->
+<!--
+Banner 
 <p align="center">
   <img src="A_digital_graphic_design_banner_features_Hozaifa_M.png" alt="Hozaifa Moustafa Banner" />
 </p>
+-->
 
 # 👋 Hi, I'm Hozaifa Moustafa  
 
