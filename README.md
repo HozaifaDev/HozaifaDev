@@ -126,6 +126,6 @@ Graduate project bringing **AI-driven improvements** to wellbeing analysis.
   
   *Feel free to reach out if you want to collaborate on exciting data science projects!* 🤝
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=HozaifaDev&color=blue&style=flat-square)
   
 </div>
