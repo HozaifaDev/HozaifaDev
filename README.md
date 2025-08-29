@@ -3,7 +3,7 @@
   <img src="A_digital_graphic_design_banner_features_Hozaifa_M.png" alt="Hozaifa Moustafa Banner" />
 </p>
 -->
-<h1 align="center">Hi 👋, I'm Hozaifa Moustafa</h1>
+<h1 align="center">Hozaifa Moustafa</h1>
 <h3 align="center">💻 Data Scientist | 🚀 Co-Founder & CTO @ Revelio</h3>
 
 ---
