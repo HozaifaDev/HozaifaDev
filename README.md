@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Hozaifa
 
-<!--
-**HozaifaDev/HozaifaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **CTO at Revelio** | Data Scientist | Startup Builder  
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 Currently building data solutions at **Revelio**
+- 🌱 Learning advanced AI systems and smart IoT
+- 🎯 Goal: Simplify data science for real-world business use cases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- Python | SQL | R  
+- Machine Learning | Data Analytics  
+- GitHub | Git | ClickUp  
+
+### 📊 GitHub Stats
+![Hozaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HozaifaDev&show_icons=true&theme=radical)
+
+### 🔗 Connect with Me
+- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- [Twitter](https://twitter.com/yourhandle)  
+- 📫 Email: yourname@email.com
