@@ -89,11 +89,11 @@ Passionate **Data Scientist** and **Machine Learning Engineer** with a strong fo
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HozaifaDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HozaifaDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&fire=58A6FF&ring=58A6FF&currStreakNum=C9D1D9&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=HozaifaDev&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&fire=58A6FF&ring=58A6FF&currStreakNum=C9D1D9&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)
   
 </div>
 
@@ -103,10 +103,10 @@ Passionate **Data Scientist** and **Machine Learning Engineer** with a strong fo
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://YOUR_PORTFOLIO)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hozaifamoustafa)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/hozaifadev)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hozifa.dev@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([https://YOUR_PORTFOLIO](https://HozaifaDev.github.io/MyPortfolio/))
   
 </div>
 
