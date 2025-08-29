@@ -1,4 +1,5 @@
-# 🚀 Hozaifa | Data Scientist & ML Engineer
+<h1 align="center">Hozaifa Moustafa</h1>
+<h3 align="center">Data Scientist | Co-Founder & CTO @ Revelio</h3>
 
 <div align="center">
   
@@ -16,7 +17,9 @@
 
 ## 📊 **About Me**
 
-Passionate **Data Scientist** and **Machine Learning Engineer** with a strong foundation in statistical analysis, deep learning, and data visualization. I love transforming complex data into actionable insights and building intelligent systems that make a difference.
+I’m a Data Scientist and Co-Founder & CTO at **Revelio**.  
+My work focuses on **building data-driven solutions** that transform raw information into business value.  
+I specialize in **analytics, machine learning, and scalable systems** that help organizations make smarter decisions.
 
 > *"Data is the new oil, but AI is the refinery"* 🎯
 
@@ -26,10 +29,8 @@ Passionate **Data Scientist** and **Machine Learning Engineer** with a strong fo
 
 - 🔬 **Research & Development** in Machine Learning and Deep Learning
 - 📈 **Data Analysis & Visualization** using Python, R, and Power BI
-- 🤖 **AI Model Development** with TensorFlow and PyTorch
-- 🏆 **Competitive Programming** and Algorithm Optimization
+- 🤖 **AI Model Development** with TensorFlow
 - 📚 **Teaching & Mentoring** in Data Science and Programming
-- 🌟 **Open Source** Contributor and Community Builder
 
 ---
 
@@ -56,8 +57,6 @@ Passionate **Data Scientist** and **Machine Learning Engineer** with a strong fo
 
 - **ICMTC 2024** - Machine Learning Competition Participant
 - **ICPC 2023** - International Collegiate Programming Contest
-- **Kaggle Competitions** - Data Science challenges and hackathons
-- **Academic Excellence** - University-level programming competitions
 
 ---
 
@@ -112,22 +111,13 @@ Passionate **Data Scientist** and **Machine Learning Engineer** with a strong fo
 
 ---
 
-## 📚 **Currently Learning**
+## 📚 **Currently Working On...**
 
-- **Large Language Models** - Advanced NLP and transformer architectures
-- **Deep Learning Optimization** - Model compression and deployment strategies
-- **Cloud Computing** - AWS, Azure, and Google Cloud for ML deployment
-- **MLOps** - Machine Learning operations and pipeline automation
+💼 **[Revelio](https://github.com/RevelioTech)**  
+Delivering tailored **data science & analytics solutions** for businesses.  
 
----
-
-## 🎯 **Goals for 2025**
-
-- 🚀 **Deploy 5+ ML models** to production
-- 📊 **Contribute to 10+ open source** data science projects
-- 🏆 **Win 3+ competitions** in ML and data science
-- 🌍 **Mentor 50+ students** in data science and programming
-- 📈 **Build a data science community** of 1000+ members
+🧠 **[UpHeal](https://github.com/your-upheal-link)**  
+Graduate project bringing **AI-driven improvements** to wellbeing analysis.  
 
 ---
 
