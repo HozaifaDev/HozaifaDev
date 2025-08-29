@@ -5,7 +5,7 @@ Banner
 </p>
 -->
 
-# 👋 Hi, I'm Hozaifa Moustafa  
+# Hozaifa Moustafa  
 
 **Data Scientist | Co-Founder & CTO @ Revelio**  
 
