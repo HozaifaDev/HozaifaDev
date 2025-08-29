@@ -33,6 +33,16 @@ I specialize in **analytics, machine learning, and scalable systems** that help 
 
 ---
 
+## 📚 **Currently Working On...**
+
+💼 **[Revelio](https://github.com/RevelioTech)**  
+Delivering tailored **data science & analytics solutions** for businesses.  
+
+🧠 **[UpHeal](https://github.com/your-upheal-link)**  
+Graduate project bringing **AI-driven improvements** to wellbeing analysis. 
+
+---
+
 ## 🚀 **Featured Projects**
 
 ### 🧠 **Machine Learning & AI**
@@ -107,16 +117,6 @@ I specialize in **analytics, machine learning, and scalable systems** that help 
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([https://YOUR_PORTFOLIO](https://HozaifaDev.github.io/MyPortfolio/))
   
 </div>
-
----
-
-## 📚 **Currently Working On...**
-
-💼 **[Revelio](https://github.com/RevelioTech)**  
-Delivering tailored **data science & analytics solutions** for businesses.  
-
-🧠 **[UpHeal](https://github.com/your-upheal-link)**  
-Graduate project bringing **AI-driven improvements** to wellbeing analysis.  
 
 ---
 
