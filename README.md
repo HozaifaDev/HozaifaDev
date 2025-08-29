@@ -33,7 +33,7 @@ I specialize in **analytics, machine learning, and scalable systems** that help 
 
 ---
 
-## 📚 **Currently Working On...**
+## 📚 **Currently Working On**
 
 💼 **[Revelio](https://github.com/RevelioTech)**  
 Delivering tailored **data science & analytics solutions** for businesses.  
